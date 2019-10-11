@@ -82,13 +82,13 @@
       }
     ],
     "uniqCompNum": 360,
-    "versionPublish": "4.9.4",
+    "versionPublish": "4.10.8",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
-    "siteUrl": "https://www.coachinglab.fr",
+    "siteUrl": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
@@ -103,7 +103,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -1561,7 +1561,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -2596,7 +2596,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3601,7 +3601,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -4452,7 +4452,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -7001,7 +7001,7 @@
       "settings": {
         "meta_descr": "Faisons le point sur votre situation",
         "title": "Réserver votre 1ère séance",
-        "order": 6,
+        "order": 7,
         "header_custom": ""
       },
       "components": [
