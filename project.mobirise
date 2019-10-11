@@ -5485,7 +5485,7 @@
         "main": true,
         "title": "CoachingLAB.fr | Au service de votre réussite",
         "meta_descr": "Obtenez le soutien dont vous avez besoin.\nNous sommes à vos cotés, où que vous soyez",
-        "header_custom": "<meta http-equiv=\"refresh\" content=\"0; URL='https://www.coachinglab.fr'\" />",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
