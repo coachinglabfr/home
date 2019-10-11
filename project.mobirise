@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "coachinglab.fr",
+    "name": "coachinglab-final",
     "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
@@ -87,7 +87,6 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "cookiesAlert": "",
     "siteUrl": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
