@@ -15,9 +15,6 @@
 		<loc>https://www.coachinglab.fr/rdv.html</loc>
 	</url>
 	<url>
-		<loc>https://www.coachinglab.fr/contact.html</loc>
-	</url>
-	<url>
 		<loc>https://www.coachinglab.fr/jeunesse.html</loc>
 	</url>
 	<url>
@@ -25,5 +22,8 @@
 	</url>
 	<url>
 		<loc>https://www.coachinglab.fr/index.html</loc>
+	</url>
+	<url>
+		<loc>https://www.coachinglab.fr/contact .html</loc>
 	</url>
 </urlset>
