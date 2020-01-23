@@ -5215,6 +5215,51 @@ body {
 .cid-rDze9d2k21 .dropdown-item:hover {
   color: #00a6ed !important;
 }
+.cid-rOqk4bPeTD {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0d2c54;
+}
+.cid-rOqk4bPeTD h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rOqk4bPeTD p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rOqk4bPeTD .card-img {
+  text-align: left;
+  padding-right: 30px;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  width: auto;
+}
+.cid-rOqk4bPeTD .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rOqk4bPeTD .card-title {
+  margin-bottom: 0;
+}
+.cid-rOqk4bPeTD .mbr-crt-title {
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+}
+.cid-rOqk4bPeTD .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+@media (max-width: 300px) {
+  .cid-rOqk4bPeTD .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rOqk4bPeTD .card-title,
+.cid-rOqk4bPeTD .card-img {
+  color: #ffffff;
+}
 .cid-rHftk78s9t {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -6284,7 +6329,7 @@ body {
 .cid-rOnYIpr6Qm {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #0d2c54;
+  background-color: #00b0f0;
 }
 @media (min-width: 992px) {
   .cid-rOnYIpr6Qm .mbr-figure {
@@ -6695,6 +6740,51 @@ body {
 .cid-rOnYIqnAf7 .nav-link:hover,
 .cid-rOnYIqnAf7 .dropdown-item:hover {
   color: #00a6ed !important;
+}
+.cid-rOqm4VcQkN {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #649914;
+}
+.cid-rOqm4VcQkN h4 {
+  text-align: left;
+  font-weight: 500;
+}
+.cid-rOqm4VcQkN p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rOqm4VcQkN .card-img {
+  text-align: left;
+  padding-right: 30px;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+  width: auto;
+}
+.cid-rOqm4VcQkN .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+.cid-rOqm4VcQkN .card-title {
+  margin-bottom: 0;
+}
+.cid-rOqm4VcQkN .mbr-crt-title {
+  -webkit-flex-grow: 1;
+  flex-grow: 1;
+}
+.cid-rOqm4VcQkN .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+@media (max-width: 300px) {
+  .cid-rOqm4VcQkN .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rOqm4VcQkN .card-title,
+.cid-rOqm4VcQkN .card-img {
+  color: #ffffff;
 }
 .cid-rOnYIrvSdK {
   padding-top: 15px;
