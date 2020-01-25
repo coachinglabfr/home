@@ -5657,37 +5657,41 @@ body {
 .cid-rcT743DS9y .dropdown-item:hover {
   color: #00a6ed !important;
 }
-.cid-rdnKdkwjBV {
+.cid-rOzW6ZEnmX {
   padding-top: 105px;
-  padding-bottom: 60px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/our-approach-to-leadership-development-736x448.jpg");
 }
-.cid-rdnKdkwjBV .media-container-row {
+.cid-rOzW6ZEnmX .media-container-row {
   flex-direction: row-reverse;
   -webkit-flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
-  .cid-rdnKdkwjBV .mbr-figure {
+  .cid-rOzW6ZEnmX .mbr-figure {
     padding-right: 4rem;
     padding-right: 0;
     padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
-  .cid-rdnKdkwjBV .mbr-figure {
+  .cid-rOzW6ZEnmX .mbr-figure {
     padding-bottom: 3rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rdnKdkwjBV .mbr-text {
+  .cid-rOzW6ZEnmX .mbr-text {
     text-align: center;
   }
 }
-.cid-rdnKdkwjBV DIV {
-  color: #efefef;
-}
-.cid-rdnKdkwjBV H1 {
+.cid-rOzW6ZEnmX H1 {
   color: #ffffff;
+}
+.cid-rOzW6ZEnmX H3 {
+  color: #ffffff;
+}
+.cid-rOzW6ZEnmX .mbr-text,
+.cid-rOzW6ZEnmX .mbr-section-btn {
+  color: #cccccc;
 }
 .cid-rdnKesLNkh {
   padding-top: 60px;
