@@ -5660,7 +5660,7 @@ body {
 .cid-rOzW6ZEnmX {
   padding-top: 105px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/our-approach-to-leadership-development-736x448.jpg");
+  background-image: url("../../../assets/images/image-898x600.jpg");
 }
 .cid-rOzW6ZEnmX .media-container-row {
   flex-direction: row-reverse;
@@ -7187,25 +7187,26 @@ body {
 .cid-rEA8D9UH9B .dropdown-item:hover {
   color: #00a6ed !important;
 }
-.cid-rEA8DcOi5l {
+.cid-rOLWfHOlzD {
   padding-top: 0px;
   padding-bottom: 0px;
-  background: linear-gradient(45deg, #ffffff, #ffffff);
+  background: linear-gradient(45deg, #649914, #649914);
 }
-.cid-rEA8DcOi5l .mbr-section-subtitle {
+.cid-rOLWfHOlzD .mbr-section-subtitle {
   font-style: italic;
   letter-spacing: 1rem;
 }
-.cid-rEA8DcOi5l .mbr-section-title,
-.cid-rEA8DcOi5l .mbr-section-btn B {
+.cid-rOLWfHOlzD .mbr-section-title,
+.cid-rOLWfHOlzD .mbr-section-btn B {
   color: #00a6ed;
 }
-.cid-rEA8DcOi5l .mbr-section-title,
-.cid-rEA8DcOi5l .mbr-section-btn {
+.cid-rOLWfHOlzD .mbr-section-title,
+.cid-rOLWfHOlzD .mbr-section-btn {
   text-align: center;
+  color: #662fbf;
 }
 .cid-rEA8DdRIFm {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
