@@ -1807,23 +1807,21 @@ body {
 .cid-reLWc2cZdI .dropdown-item:hover {
   color: #00a6ed !important;
 }
-.cid-reLKPKlKbm {
-  padding-top: 15px;
+.cid-rQmQhn1zCd {
+  padding-top: 0px;
   padding-bottom: 0px;
-  background: linear-gradient(45deg, #ffffff, #0d2c54);
+  background-image: url("../../../assets/images/clab-page2-apropos-3.gif");
 }
-.cid-reLKPKlKbm .mbr-section-subtitle {
-  font-style: italic;
-  letter-spacing: 1rem;
-}
-.cid-reLKPKlKbm .mbr-section-title,
-.cid-reLKPKlKbm .mbr-section-btn B {
-  color: #0d2c54;
-}
-.cid-reLKPKlKbm .mbr-section-title,
-.cid-reLKPKlKbm .mbr-section-btn {
-  text-align: left;
+.cid-rQmQhn1zCd H3 {
   color: #ffffff;
+  text-align: left;
+}
+.cid-rQmQhn1zCd H1 {
+  text-align: left;
+}
+.cid-rQmQhn1zCd .mbr-text,
+.cid-rQmQhn1zCd .mbr-section-btn {
+  text-align: left;
 }
 .cid-rdnJ7alF9M {
   padding-top: 0px;
@@ -1841,6 +1839,7 @@ body {
 .cid-rdnJ7alF9M .mbr-section-title,
 .cid-rdnJ7alF9M .mbr-section-btn {
   text-align: center;
+  color: #00a6ed;
 }
 .cid-rdqmR1ZnTl {
   padding-top: 60px;
@@ -1930,6 +1929,10 @@ body {
 }
 .cid-rdnJ9CRlQl .card-title,
 .cid-rdnJ9CRlQl .card-img B {
+  color: #0d2c54;
+}
+.cid-rdnJ9CRlQl .card-title,
+.cid-rdnJ9CRlQl .card-img {
   color: #0d2c54;
 }
 .cid-rdnJaIWmfG {
