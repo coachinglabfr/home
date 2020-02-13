@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "coachinglab-final",
-    "currentPage": "index.html",
+    "currentPage": "apropos.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -24,7 +24,7 @@
         "display4Font": "Montserrat",
         "display4Size": "1",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
