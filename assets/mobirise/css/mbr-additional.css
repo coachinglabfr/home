@@ -1807,21 +1807,22 @@ body {
 .cid-reLWc2cZdI .dropdown-item:hover {
   color: #00a6ed !important;
 }
-.cid-rQmQhn1zCd {
+.cid-rQn4We8q1R {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/clab-page2-apropos-3.gif");
+  background-image: url("../../../assets/images/clab-page2-apropos-4.gif");
 }
-.cid-rQmQhn1zCd H3 {
+.cid-rQn4We8q1R P {
+  color: #767676;
+}
+.cid-rQn4We8q1R H1 {
   color: #ffffff;
   text-align: left;
 }
-.cid-rQmQhn1zCd H1 {
+.cid-rQn4We8q1R .mbr-text,
+.cid-rQn4We8q1R .mbr-section-btn {
   text-align: left;
-}
-.cid-rQmQhn1zCd .mbr-text,
-.cid-rQmQhn1zCd .mbr-section-btn {
-  text-align: left;
+  color: #ffffff;
 }
 .cid-rdnJ7alF9M {
   padding-top: 0px;
