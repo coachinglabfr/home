@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "coachinglab-final",
-    "currentPage": "index.html",
+    "currentPage": "essai.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -25,7 +25,7 @@
         "display4Size": "1",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#ff8f02",
@@ -82,7 +82,7 @@
       }
     ],
     "uniqCompNum": 434,
-    "versionPublish": "4.9.7",
+    "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
